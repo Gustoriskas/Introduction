@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.img{
+    width:  470px; 
+    height: 280px;
+}
+.imr{
+    width: 897px;
+    height: 595px;
+}
+.imb{
+    width:  600px; 
+    height: 266px;
+}
+.imf{
+    width: 536px;
+    height: 700px;
+}
+.imk{
+    
+}
